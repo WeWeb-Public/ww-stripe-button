@@ -1,0 +1,13 @@
+{
+	"componentPath": "./src/wwObjectStripeButton.vue",
+	"content": {
+		"type": "wwObjectStripeButton",
+		"data": {}
+	},
+	"upsales": {
+		"wwAnalytics": {
+			"click": false
+		}
+	},
+	"cmsOptions": {}
+}
