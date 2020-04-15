@@ -1,4 +1,4 @@
-{
+latest{
 	"name": "wwObjectStripeButton",
 	"type": "wwObject",
 	"version": "0.1.0",
@@ -12,7 +12,7 @@
 		"vue": "^2.6.11"
 	},
 	"devDependencies": {
-		"weweb-client": "^1.1.1"
+		"weweb-client": "latest"
 	},
 	"browserslist": [
 		"> 1%",
